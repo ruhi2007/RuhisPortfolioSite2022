@@ -22,7 +22,7 @@ bio: My research interests include digital healthcare, health informatics, e-hea
 
 # Interests to show in About widget
 interests:
-  - IoT
+  - IoT (Wearables, digital health, connected health)
   - HIT (Health Information Technology)
   - Digital transformation
 
