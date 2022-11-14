@@ -23,21 +23,21 @@ bio: My research interests include digital healthcare, health informatics, e-hea
 # Interests to show in About widget
 interests:
   - IoT
-  - HIT (Health Informaion Technology)
+  - HIT (Health Information Technology)
   - Digital transformation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD (pursuing)
+      institution: University of Auckland, New Zealand
+      year: 2019
+    - course: M.E. (Computer Engineering)
+      institution: Mumbai University, India
       year: 2008
+    - course: B.E. (Computer Engineering)
+      institution: Mumbai University, India
+      year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -77,8 +77,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Pursuing PhD in Information Systems and Operations Management (ISOM) department at the University of Auckland. Research areas include Internet of Things (IoT) - Wearable technology
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
