@@ -23,8 +23,8 @@ feature:
   - description: 100%
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
+    name: Machine Learning (Python)
+  - description: 60%
     icon: camera-retro
     icon_pack: fas
     name: Photography
